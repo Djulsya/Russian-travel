@@ -1,0 +1,54 @@
+@import url(../vendor/fonts.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/title/title.css);
+
+@import url(../blocks/text/text.css);
+
+@import url(../blocks/link/link.css);
+
+@import url(../blocks/content/content.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__langlinks/header__langlinks.css);
+@import url(../blocks/header/__langlink/_lang/header__langlink_lang_ru.css);
+@import url(../blocks/header/__langlink/_lang/header__langlink_lang_en.css);
+@import url(../blocks/header/__logo/header__logo.css);
+
+@import url(../blocks/top/top.css);
+@import url(../blocks/top/__title/top__title.css);
+@import url(../blocks/top/__subtitle/top__subtitle.css);
+@import url(../blocks/top/__main-illustration/top__main-illustration.css);
+@import url(../blocks/top/__comment/top__comment.css);
+
+@import url(../blocks/entry/entry.css);
+@import url(../blocks/entry/__title/entry__title.css);
+@import url(../blocks/entry/__text/entry__text.css);
+@import url(../blocks/entry/__comment/entry__comment.css);
+@import url(../blocks/entry/__comment/_fontsize/entry__comment_fontsize_light.css);
+@import url(../blocks/entry/__comment/_fontsize/entry__comment_fontsize_bold.css);
+
+@import url(../blocks/photo/photo.css);
+@import url(../blocks/photo/__image/photo__image.css);
+
+@import url(../blocks/places/places.css);
+
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__link/place__link.css);
+@import url(../blocks/place/__link-title/place__link-title.css);
+@import url(../blocks/place/__link-website/place__link-website.css);
+@import url(../blocks/place/__photo/place__photo.css);
+@import url(../blocks/place/__paraghaphs/place__paragraphs.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
+
+@import url(../blocks/bajkal/bajkal.css);
+@import url(../blocks/bajkal/__link/bajkal__link.css);
+@import url(../blocks/bajkal/__title/bajkal__title.css);
+@import url(../blocks/bajkal/__text/bajkal__text.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__menu/footer__menu.css);
+@import url(../blocks/footer/__menu-link/menu-link.css);
+@import url(../blocks/footer/__author/footer__author.css);
