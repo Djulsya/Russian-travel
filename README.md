@@ -1,3 +1,3 @@
 Путешествие по России
 
-https://djulsya.github.io/russian-travel/
+https://djulsya.github.io/another-russian-travel/
