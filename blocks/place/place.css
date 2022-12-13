@@ -19,10 +19,24 @@
   }
 }
 
+@media screen and (max-width: 670px) {
+  .place {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(288px, 50%));
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .place {
+    display: grid;
+    justify-content: center;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .place {
     grid-template-columns: repeat(1, 100%);
     row-gap: 32px;
-
   }
 }

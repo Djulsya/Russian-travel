@@ -43,10 +43,10 @@
 @import url(../blocks/place/__paraghaphs/place__paragraphs.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 
-@import url(../blocks/bajkal/bajkal.css);
-@import url(../blocks/bajkal/__link/bajkal__link.css);
-@import url(../blocks/bajkal/__title/bajkal__title.css);
-@import url(../blocks/bajkal/__text/bajkal__text.css);
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__link/cover__link.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__text/cover__text.css);
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__menu/footer__menu.css);

@@ -1,5 +1,6 @@
 .page {
   font-family: "Inter", "Arial", "Helvetica", sans-serif;
+  text-rendering: optimizeLegibility;
   background-color: #2a2c2f;
   color: #ffffff;
   min-width: 320px;

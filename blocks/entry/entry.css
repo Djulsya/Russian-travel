@@ -1,7 +1,7 @@
 .entry {
-  max-width: 690px;
-  padding: 92px 0 92px 148px;
-  margin: 0;
+  max-width: 984px;
+  padding: 92px 0 92px 0;
+  margin: auto;
 }
 
 @media screen and (max-width: 1024px) {
@@ -12,14 +12,12 @@
 
 @media screen and (max-width: 768px) {
   .entry {
-    max-width: 720px;
     padding: 88px 0 88px 24px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .entry {
-    max-width: 288px;
     padding: 64px 0 64px 16px;
   }
 }
