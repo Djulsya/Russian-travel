@@ -8,17 +8,20 @@
   font-size: 72px;
   line-height: 76px;
   margin: 0;
+  width: 100%;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1050px) {
   .cover__title {
     padding: 195px 232px 0 232px;
+    width: 100%;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 790px) {
   .cover__title {
     padding: 115px 104px 0 104px;
+    width: 100%;
   }
 }
 
