@@ -6,13 +6,14 @@
   font-size: 18px;
   line-height: 122%;
   max-width: 360px;
-  padding: 32px 412px 245px 412px;
+  padding: 32px 0 245px 0;
   margin: 0;
+  width: 100%;
 }
 
 @media screen and (max-width: 1024px) {
   .cover__text {
-    padding: 32px 332px 195px 332px;
+    padding: 32px 0 195px 0; 
     font-size: 18px;
     line-height: 22px;
     width: 100%;
@@ -22,13 +23,13 @@
 @media screen and (max-width: 780px) {
   .cover__text {
     width: 100%;
-    padding: 32px 204px 115px 204px;
+    padding: 32px 0 115px 0;  
   }
 }
 
 @media screen and (max-width: 450px) {
   .cover__text {
-    padding: 25px 99px 51px 99px;
+    padding: 25px 0 51px 0;  
     font-size: 14px;
     line-height: 16px;
   }
@@ -36,7 +37,7 @@
 
 @media screen and (max-width: 320px) {
   .cover__text {
-    padding: 16px 16px 33px 16px;
+    padding: 16px 0 33px 0;  
     font-size: 14px;
     line-height: 16px;
   }
