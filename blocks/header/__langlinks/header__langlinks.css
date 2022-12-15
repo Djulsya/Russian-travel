@@ -1,7 +1,9 @@
 .header__langlinks {
   display: flex;
-  font-style: normal;
-  text-align: right;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+  column-gap: 18px;
   font-weight: 400;
   font-size: 24px;
   line-height: 28px;

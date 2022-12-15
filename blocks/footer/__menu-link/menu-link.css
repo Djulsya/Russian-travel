@@ -9,8 +9,8 @@
 }
 
 .footer__menu-link:hover {
-  opacity: 0.2;
-  transition: opacity 0.6s;
+  opacity: 0.8;
+  transition: opacity 0.2s;
 }
 
 @media screen and (max-width: 320px) {
