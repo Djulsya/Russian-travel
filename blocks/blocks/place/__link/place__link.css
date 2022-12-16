@@ -1,0 +1,16 @@
+.place__link {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  font-style: normal;
+  row-gap: 12px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+@media screen and (max-width: 320px) {
+  .place__link {
+    margin: 0 16px 0 16px;
+  }
+}

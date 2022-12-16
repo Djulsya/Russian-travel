@@ -1,0 +1,20 @@
+.top__main-illustration {
+  width: 100%;
+  object-fit: cover;
+  margin: 0 auto 0 auto;
+  padding: 64px 0 8px 0;
+  max-width: 984px;
+}
+
+@media screen and (max-width: 1024px) {
+  .top__main-illustration {
+    max-width: 928px;
+    padding: 56px 0 8px 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .top__main-illustration {
+    padding: 40px 0 8px 0;
+  }
+}
