@@ -1,0 +1,15 @@
+.page {
+  font-family: "Inter", "Arial", "Helvetica", sans-serif;
+  text-rendering: optimizeLegibility;
+  background-color: #2a2c2f;
+  color: #ffffff;
+  min-width: 320px;
+  padding: 28px 0 24px 0;
+  margin: 0;
+}
+
+@media screen and (max-width: 320px) {
+  .page {
+    padding: 16px 0 24px 0;
+  }
+}
