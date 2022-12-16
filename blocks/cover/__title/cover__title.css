@@ -8,18 +8,10 @@
   line-height: 76px;
   margin: 0;
   width: 100%;
-  /* padding: 245px 0 0 0; */
 }
-
-/* @media screen and (max-width: 1023px) {
-  .cover__title {
-    padding: 17vw 0 0 0;
-  }
-} */
 
 @media screen and (max-width: 670px) {
   .cover__title {
-    /* padding: 15vw 0 0 0; */
     font-size: 8vw;
     line-height: 35px;
     font-weight: 900;
@@ -29,14 +21,12 @@
 
 @media screen and (max-width: 426px) {
   .cover__title {
-    /* padding: 10vw 0 0 0; */
     line-height: 35px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .cover__title {
-    /* padding: 33px 0 0 0; */
     max-width: 288px;
     font-size: 32px;
     line-height: 35px;
