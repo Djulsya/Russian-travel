@@ -7,6 +7,8 @@
   color: #aaaaaa;
   margin: 0;
   text-transform: uppercase;
+  cursor: pointer;
+}
 }
 
  @media screen and (max-width: 1024px) {
