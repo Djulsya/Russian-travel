@@ -4,4 +4,4 @@
 
 Используемые технологии: БЭМ, flexbox, grid, медиазапросы.
 
-https://djulsya.github.io/russian-travel/ 
+https://djulsya.github.io/Russian-travel/
